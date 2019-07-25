@@ -36,3 +36,22 @@ h3, .species-latin {
 .species-latin {
 	opacity: 0.5;
 }
+
+/* pop culture */
+audio {
+	display: block;
+	margin: 2vh auto;
+	border: 4px purple solid;
+	border-radius: 40%;
+}
+
+video {
+	margin: 2vh 0;
+	border: 4px indianred solid;
+	border-radius: 5px;
+	width: 100%;
+}
+
+#media {
+	border: none;
+}
