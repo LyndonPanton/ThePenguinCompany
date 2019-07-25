@@ -61,6 +61,10 @@ header {
 }
 
 /* Main */
+h2 {
+	text-align: center;
+	text-decoration: underline;
+}
 
 /* Footer */
 footer {
