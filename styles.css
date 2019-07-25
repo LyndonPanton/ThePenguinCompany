@@ -17,3 +17,8 @@
 }
 
 /* notable species */
+h3, .species-latin {
+	margin-top: 0.5vh;
+	margin-bottom: 0.5vh;
+	font-style: italic;
+}
