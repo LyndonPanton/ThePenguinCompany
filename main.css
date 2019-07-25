@@ -66,6 +66,10 @@ h2 {
 	text-decoration: underline;
 }
 
+main {
+	padding: 0 2vw;
+}
+
 /* Footer */
 footer {
 	padding: 1vh 0;
