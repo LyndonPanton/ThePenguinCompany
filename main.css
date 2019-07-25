@@ -69,3 +69,20 @@ footer {
 	text-align: center;
 	color: #FFFFFF;
 }
+
+.more-icon {
+	transition: all 0.3s linear;
+	cursor: pointer;
+	font-size: 1.5em;
+}
+
+.more-icon:hover {
+	transform: scale(1.5);
+	color: lightblue;
+}
+
+#more {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
