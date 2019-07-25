@@ -5,6 +5,22 @@ label {
 	margin: 1vh 0;
 }
 
+label input {
+	position: absolute;
+	right: 0;
+
+	margin-right: 20%;
+	border: none;
+	border-bottom: 1px black solid;
+	background-color: transparent;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+label input:focus {
+	border-bottom-color: white;
+	border-bottom-width: 2px;
+}
+
 #form {
 	margin: 1vh 1vw;
 	border: 2px #000000 solid;
