@@ -1,3 +1,7 @@
+.main-section {
+	border-bottom: 1px #000000 solid;
+}
+
 #main-image {
 	display: block;
 	margin: 0 auto;
