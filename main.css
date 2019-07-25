@@ -45,4 +45,15 @@ header {
 	min-height: 100%;
 	list-style-type: none;
 	padding: 1vh 0;
+
+	transition: background-color 0.5s linear;
+}
+
+#navigation > li:hover {
+	background-color: #FFFFFF;
+	color: #000000;
+}
+
+#navigation > li:hover a {
+	color: #000000;
 }
