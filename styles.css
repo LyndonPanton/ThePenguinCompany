@@ -1,5 +1,10 @@
+/* introduction */
 .main-section {
 	border-bottom: 1px #000000 solid;
+}
+
+#introduction-text {
+	text-align: center;
 }
 
 #main-image {
@@ -10,3 +15,5 @@
 	width: 90%;
 	height: 300px;
 }
+
+/* notable species */
