@@ -57,3 +57,13 @@ header {
 #navigation > li:hover a {
 	color: #000000;
 }
+
+/* Main */
+
+/* Footer */
+footer {
+	padding: 1vh 0;
+	background-color: #000000;
+	text-align: center;
+	color: #FFFFFF;
+}
