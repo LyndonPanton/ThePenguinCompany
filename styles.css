@@ -22,3 +22,14 @@ h3, .species-latin {
 	margin-bottom: 0.5vh;
 	font-style: italic;
 }
+
+.species {
+	margin: 2vh 0;
+	border: 2px #4682B4 solid;
+	border-radius: 10px;
+	padding: 2vh 2vw;
+}
+
+.species-latin {
+	opacity: 0.5;
+}
