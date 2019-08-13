@@ -25,11 +25,11 @@ h3, .species-latin {
 	font-style: italic;
 }
 
-ul {
+.fact-list {
 	text-align: left;
 }
 
-ul li {
+.fact-list li {
 	margin: 2vh 0;
 }
 
