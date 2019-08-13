@@ -25,6 +25,14 @@ h3, .species-latin {
 	font-style: italic;
 }
 
+ul {
+	text-align: left;
+}
+
+ul li {
+	margin: 2vh 0;
+}
+
 .species {
 	margin: 2vh 0;
 	border: 2px #4682B4 solid;
