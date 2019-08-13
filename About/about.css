@@ -8,3 +8,7 @@ figcaption {
 	flex-wrap: wrap;
 	justify-content: center;
 }
+
+#sites a {
+	color: black;
+}
