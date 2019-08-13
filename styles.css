@@ -14,8 +14,8 @@
 	margin: 0 auto;
 	border: 4px #86A57B solid;
 	border-radius: 10px;
-	width: 90%;
-	height: 300px;
+	max-width: 90%;
+	height: auto;
 }
 
 /* notable species */
