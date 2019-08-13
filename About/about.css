@@ -1,3 +1,7 @@
+figcaption {
+	padding-top: 1vh;
+}
+
 #sites {
 	display: flex;
 	flex-direction: row;
